@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 // connection string
-const connString = "mongodb://localhost:27017";
+const connString = "gautancholo:Wszedxrfc6558@hyperiondev01.zqif2ng.mongodb.net/cars";
 
 // connecting to the database
 const connectDB = async () => {
